@@ -27,7 +27,7 @@ Skills are instructions loaded into an AI agent's context - they influence how t
 
 ```text
 /plugin marketplace add stoating/clojure-babashka-skill
-/plugin install clojure-babashka@clojure-babashka-skill
+/plugin install babashka@clojure-babashka-skill
 ```
 
 The skill is then discovered automatically. Restart the session if it is not picked up immediately. Once installed, invoke it with:
@@ -46,7 +46,7 @@ To update later:
 
 ```text
 /plugin marketplace add stoating/plugins
-/plugin install clojure-babashka@stoating
+/plugin install babashka@stoating
 ```
 
 ### Manual or Other Agents
