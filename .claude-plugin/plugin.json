@@ -2,5 +2,5 @@
   "name": "babashka",
   "description": "Clojure Babashka skill - fast-starting bb scripts, bb.edn tasks, built-in namespaces, deps, pods, shell/process interop, CLIs, and SCI compatibility.",
   "version": "0.1.0",
-  "skills": "./"
+  "skills": "babashka"
 }
